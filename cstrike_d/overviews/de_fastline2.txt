@@ -2,13 +2,13 @@
 
 global 
 {
-	ZOOM	2.29
-	ORIGIN	-225 	807	-192
+	ZOOM	2.28
+	ORIGIN	-32.19	554.25	-305
 	ROTATED	0
 }
 
 layer 
 {
 	IMAGE	"overviews/de_fastline2.bmp"
-	HEIGHT	-192
+	HEIGHT	-305
 }
