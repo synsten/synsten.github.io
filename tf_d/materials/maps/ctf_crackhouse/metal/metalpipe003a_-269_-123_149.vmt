@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALPIPE003A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ctf_crackhouse/c-269_-123_149"
+	}
+}

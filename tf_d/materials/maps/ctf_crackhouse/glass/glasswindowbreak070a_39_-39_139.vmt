@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOWBREAK070A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ctf_crackhouse/c39_-39_139"
+		"$crackmaterial"		"maps/ctf_crackhouse/glass/glasswindowbreak070b_39_-39_139"
+	}
+}

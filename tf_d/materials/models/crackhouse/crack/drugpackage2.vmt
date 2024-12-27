@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/crackhouse/crack/drugpackage2"
+		"$bumpmap" "models/crackhouse/crack/drugpackage2_n"
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ctf_crackhouse/c-250_776_124"
+		"Proxies"
+		{
+		}
+	}
+}

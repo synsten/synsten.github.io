@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BUILDING_TEMPLATE/BUILDING_TEMPLATE002B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ctf_crackhouse/c1549_1000_113"
+	}
+}
