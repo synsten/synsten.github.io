@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/METAL/METALWALL061H.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/ctf_crackhouse/c-502_747_322"
-	}
-}
