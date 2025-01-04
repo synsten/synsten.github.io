@@ -17,7 +17,7 @@ sound/ambience/fastline/fastline_station3.wav
 sound/ambience/fastline/fastline_station4.wav
 sound/ambience/fastline/fastline_turnreject.wav
 sound/ambience/fastline/misc_vendmachine_loop.wav
-models/props/lamp_portable_standup.mdl
+models/props/lamp_portable_standup_02.mdl
 models/props/scaffold.mdl
 models/props/scaffold_short.mdl
 models/props/wires_still.mdl
