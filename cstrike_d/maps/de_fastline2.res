@@ -1,6 +1,7 @@
 sten.wad
 maps/de_fastline2.bsp
-maps/de_fastline2.res
+maps/de_fastline2.txt
+maps/de_fastline2.nav
 gfx/env/c2nitebk.tga
 gfx/env/c2nitedn.tga
 gfx/env/c2niteft.tga

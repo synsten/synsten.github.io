@@ -1,0 +1,23 @@
+Trailerpark X-Mas Edition - Hostage Rescue
+by Cmdr
+
+Based on cs_trailerpark by Chris Auty
+
+Textures by Cmdr, 3DMike, Running with Scissors
+Music by Leroy Anderson
+
+Evil terrorists took hostages in an old trailerpark
+during christmas day. Unfortunatly, a blizzard
+occurs once the Counter-Terrorists arrive.
+
+Counter-Terrorists: Enter the old 
+trailerpark to rescue the hostages.
+Take out the Terrorists without jeopardizing 
+the hostages. Thank God we brought some
+sledges to progress through the snow.
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
+
+Other Notes: There are 4 hostages in 
+the mission.

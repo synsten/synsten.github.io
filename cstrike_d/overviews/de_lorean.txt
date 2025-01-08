@@ -1,0 +1,14 @@
+// overview description file for de_lorean.bsp
+
+global 
+{
+	ZOOM	1.45
+	ORIGIN	1008 -688 1152
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_lorean.tga"
+	HEIGHT	-225
+}

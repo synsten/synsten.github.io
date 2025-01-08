@@ -1,0 +1,22 @@
+// .res entries (21):
+gfx/env/BlueNightbk.tga
+gfx/env/BlueNightdn.tga
+gfx/env/BlueNightft.tga
+gfx/env/BlueNightlf.tga
+gfx/env/BlueNightrt.tga
+gfx/env/BlueNightup.tga
+models/pi_tree3.mdl
+overviews/de_lorean.tga
+overviews/de_lorean.txt
+sound/ambience/cat1.wav
+sound/ambience/crickets.wav
+sound/ambience/dog1.wav
+sound/ambience/thunder_clap.wav
+sound/de_lorean/bttf.wav
+sound/de_lorean/fire.wav
+sound/de_lorean/pop.wav
+sound/plats/vehicle4.wav
+sprites/fire.spr
+sprites/glow01.spr
+sprites/laserbeam.spr
+sprites/smoke.spr
