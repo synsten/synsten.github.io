@@ -1,0 +1,19 @@
+// .res entries (18):
+gfx/env/backalleybk.tga
+gfx/env/backalleydn.tga
+gfx/env/backalleyft.tga
+gfx/env/backalleylf.tga
+gfx/env/backalleyrt.tga
+gfx/env/backalleyup.tga
+overviews/de_anal_final.tga
+overviews/de_anal_final.txt
+sound/ambience/flies.wav
+sound/ambience/tankidle1.wav
+sound/de_anal/cityambience.wav
+sound/de_anal/coffee.wav
+sound/de_anal/feuerballj.wav
+sound/de_anal/grill.wav
+sound/plats/vehicle4.wav
+sprites/fire.spr
+sprites/flare1.spr
+sprites/glow01.spr

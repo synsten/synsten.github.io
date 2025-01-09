@@ -1,0 +1,14 @@
+// overview description file for de_anal_final.bsp
+
+global 
+{
+	ZOOM	1.91
+	ORIGIN	-150.63	983.81	240
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_anal_final.tga"
+	HEIGHT	0
+}
