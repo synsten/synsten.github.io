@@ -19,11 +19,11 @@ body {
   word-wrap: break-word;
 }
 .bg1 {
-  background-image: url("https://raw.githubusercontent.com/synsten/synsten.github.io/refs/heads/main/websvr_filez/images/xp.gif");
+  background-image: url("./websvr_filez/images/xp.gif");
   background-color: #000000;
 }
 .bg2 {
-  background-image: url("https://raw.githubusercontent.com/synsten/synsten.github.io/refs/heads/main/websvr_filez/images/anya.gif");
+  background-image: url("./websvr_filez/images/anya.gif");
   background-color: #000000;
 }
 a {
