@@ -1,3 +1,6 @@
+//made by sten 
+//https://gamebanana.com/
+
 sten.wad
 maps/de_fastline2.bsp
 maps/de_fastline2.txt
