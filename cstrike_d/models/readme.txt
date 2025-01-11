@@ -1,0 +1,1 @@
+just copy these files in to your cstrike/models folder
