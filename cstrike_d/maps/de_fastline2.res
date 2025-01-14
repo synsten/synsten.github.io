@@ -11,11 +11,9 @@ gfx/env/c2niteft.tga
 gfx/env/c2nitelf.tga
 gfx/env/c2nitert.tga
 gfx/env/c2niteup.tga
-sound/sten/soul_search.wav
 sound/sten/fusion_feelings.wav
 sound/sten/trace_mileshigh.wav
 sound/sten/reignofthetec2k.wav
-sound/sten/justice_soothemysoul.wav
 sound/ambience/fastline/fastline_station2.wav
 sound/ambience/fastline/fastline_station3.wav
 sound/ambience/fastline/fastline_station4.wav
