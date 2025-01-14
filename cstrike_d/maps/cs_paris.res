@@ -1,3 +1,6 @@
+maps/cs_paris.res
+maps/cs_paris.bsp
+maps/cs_paris.txt
 gfx/env/parisup.tga
 gfx/env/parisdn.tga
 gfx/env/parislf.tga

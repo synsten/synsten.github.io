@@ -1,0 +1,17 @@
+cs_rise - This is an attempt to do something 
+similar to the HighRise mission from CS:CZ
+-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Map by Danil Manchester (RU)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Task TT:
+Suppress the counter-terrorist attack and
+prevent the hostages from escaping
+Task CT:
+Kill the terrorists and take out the hostages
+---
+Map Location:
+Willis Tower, Chicago, USA
+---
+Special For STALKEROS_SERVER
+62.122.215.44:27018
+-*-*-*-*-*-*-*-*-*-*-*-*-*-

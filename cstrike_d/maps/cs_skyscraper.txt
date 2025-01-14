@@ -1,0 +1,28 @@
+Skyscraper - Otages
+par ApocalypsMan
+
+Histoire:
+Des terroristes ont pénétrés dans les etages superieur d'un building de la World Vision.
+Ils ont pris en otages les employés travaillant ici.
+
+But des anti-terroristes: 
+Délivrez les otages en ayant un minimum de pertes.
+Les accès aux caméras de sécurités sont situé dans :
+-le poste de garde
+-la reception du building
+-la salle de surveillance
+ 
+But des terroristes:
+Empêchez les CT de sauver les otages par tous les moyens possibles.
+
+(Appuyez sur FIRE pour continuer)
+
+
+
+[cs_skyscraper contributeurs]
+[KraD]Aki
+[KraD]PanPanCuCul
+Steflecowboy
+Zap
+et toi !
+ 

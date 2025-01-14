@@ -1,0 +1,257 @@
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: C:\DOCUME~1\Jasmina\Desktop\ZHLT34~1\hlcsg.exe C:\\de_dark_city 
+Entering C:\\de_dark_city.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       1 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+1 brushes (totalling 6 sides) discarded from clipping hulls
+CreateBrush:
+ (1.36 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (1.20 seconds)
+
+Using Wadfile: \swe\games\cs 1.6 v42 full\cstrike\fulltexture.wad
+ - Warning: Larger than expected texture (272812 bytes): '{TK_PLANTLG'
+ - Warning: Larger than expected texture (327212 bytes): '{TK_PLANTSM'
+ - Warning: Larger than expected texture (240172 bytes): 'TK_STONEWALLHI'
+ - Warning: Larger than expected texture (348972 bytes): '{DER_RAILINGS'
+ - Warning: Larger than expected texture (348972 bytes): 'AWALL01_512X512'
+ - Warning: Larger than expected texture (348972 bytes): 'BRICK58_512X512'
+ - Warning: Larger than expected texture (348972 bytes): 'EXTERNALWALL83_'
+ - Warning: Larger than expected texture (348972 bytes): 'FLOORTILE32_512'
+ - Warning: Larger than expected texture (348972 bytes): 'TILE43_512X512'
+ - Warning: Larger than expected texture (348972 bytes): 'WALL03'
+ - Warning: Larger than expected texture (348972 bytes): 'WALL03-2'
+ - Warning: Larger than expected texture (348972 bytes): 'WALL15_'
+ - Warning: Larger than expected texture (348972 bytes): 'WALL33_512X512'
+ - Contains 64 used textures, 100.00 percent of map (568 textures in wad)
+
+Texture usage is at 4.00 mb (of 4.00 mb MAX)
+2.89 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: C:\DOCUME~1\Jasmina\Desktop\ZHLT34~1\hlbsp.exe C:\\de_dark_city 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1500...2000...2225 (0.17 seconds)
+BSP generation successful, writing portal file 'C:\\de_dark_city.prt'
+SolidBSP [hull 1] 500...1000...1500...2000...2500...2561 (0.27 seconds)
+SolidBSP [hull 2] 500...1000...1500...2000...2500...2525 (0.30 seconds)
+SolidBSP [hull 3] 500...1000...1500...2000...2500...2594 (0.47 seconds)
+3.30 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: C:\DOCUME~1\Jasmina\Desktop\ZHLT34~1\hlvis.exe -fast C:\\de_dark_city 
+1334 portalleafs
+4680 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       1 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (7.08 seconds)
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 217 and 193:
+       (994.800 1298.000 146.000)
+    (990.586 1287.465 120.414)
+    (1049.480 1263.214 61.520)
+    (1186.630 1263.214 61.520)
+    (1187.000 1263.590 62.433)
+    (1187.000 1298.000 146.000)
+
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 219 and 216:
+       (1085.600 1342.794 -256.000)
+    (1187.000 1380.457 -256.000)
+    (1187.000 1380.457 83.217)
+    (1094.231 1346.000 97.000)
+    (1085.600 1342.794 95.626)
+
+average leafs visible: 914
+g_visdatasize:217560  compressed from 222778
+7.19 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: C:\DOCUME~1\Jasmina\Desktop\ZHLT34~1\hlrad.exe -extra C:\\de_dark_city 
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 1 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+max lighting memory  [           6291456 ] [           6291456 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[                on ] [               off ]
+bounces              [                 1 ] [                 1 ]
+bounce dynamic light [                on ] [                on ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           255.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [ 1.000 1.000 1.000 ] [ 1.000 1.000 1.000 ]
+global gamma         [ 0.500 0.500 0.500 ] [ 0.500 0.500 0.500 ]
+global light scale   [             1.000 ] [             1.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+softlight hack       [   0.0 0.0 0.0 0.0 ] [   0.0 0.0 0.0 0.0 ]
+diffuse hack         [                on ] [                on ]
+spotlight points     [                on ] [                on ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+
+
+[Reading texlights from 'C:\DOCUME~1\Jasmina\Desktop\ZHLT34~1\lights.rad']
+[59 texlights parsed from 'C:\DOCUME~1\Jasmina\Desktop\ZHLT34~1\lights.rad']
+
+6239 faces
+Create Patches : 42505 base patches
+0 opaque faces
+484810 square feet [69812656.00 square inches]
+37 direct lights
+
+BuildFacelights:
+ (144.38 seconds)
+visibility matrix   : 107.7 megs
+BuildVisLeafs:
+ (350.63 seconds)
+MakeScales:
+ (130.42 seconds)
+SwapTransfers:
+ (8.05 seconds)
+Transfer Lists :    28382796 :   28.38M transfers
+       Indices :    14570188 :   13.90M bytes
+          Data :   113531184 :  108.27M bytes
+GatherLight:
+ (2.03 seconds)
+FinalLightFace:
+ (4.59 seconds)
+641.14 seconds elapsed [10m 41s]
+
+-----   END   hlrad -----
+
+
+

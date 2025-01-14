@@ -5,6 +5,7 @@
 maps/de_747.txt
 maps/de_747.bsp
 maps/de_747.nav
+maps/de_747.res
 
 sound/ambience/de_747_dog.wav
 sound/ambience/de_747_drone.wav
