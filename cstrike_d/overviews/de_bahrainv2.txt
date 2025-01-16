@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	1.83
+	ORIGIN	-40	1472	-3905
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_bahrainv2.bmp"
+	HEIGHT	-3905
+}
