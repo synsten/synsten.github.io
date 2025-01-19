@@ -1,0 +1,13 @@
+de_beton_night - Defusion
+by Znicz
+
+Terrorists are trying to bomb beton tower 
+before it reaches completion. 
+
+Counter-Terrorists: Prevent the builing from 
+being destroyed.
+
+Terrorists: Plant the bomb and blow up the
+building.
+
+Other Notes: Dont fall off.

@@ -1,0 +1,13 @@
+sound/de_odium/alienwind1.wav
+sound/de_odium/pulsemachine.wav
+sound/de_odium/wind1.wav
+sound/de_odium/alien_creeper.wav
+sound/de_odium/alien_squit.wav
+sound/de_odium/aliencave1.wav
+sound/de_odium/alien_cycletone.wav
+sound/de_odium/computalk1.wav
+overviews/de_odium.txt
+overviews/de_odium.bmp
+maps/de_odium.txt
+maps/de_odium.nav
+maps/de_odium.res

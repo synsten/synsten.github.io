@@ -1,0 +1,16 @@
+// overview description file for de_beton_night.bsp
+// Overview: Zoom 1.68, Map Origin (96.00, -128.00, -128.00), Z Min 545.00, Z Max -801.00, Rotated 1
+
+global
+{
+	ZOOM	1.68
+	ORIGIN	96.00	-128.00	-801.00
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE	"overviews/de_beton_night.bmp"
+	HEIGHT	-801.00
+}
+

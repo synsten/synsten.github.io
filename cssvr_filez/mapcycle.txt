@@ -17,3 +17,6 @@ de_chernobyl
 de_dark_city
 xmas_wallmart
 cs_apartments_cz
+de_dazzling
+de_odium
+de_beton_night

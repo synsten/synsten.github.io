@@ -1,0 +1,18 @@
+// overview description file for de_odium.bsp
+// Overview: Zoom 1.07, Map Origin (384.00, -448.00, 280.00), Z Min 609.00, Z Max -49.00, Rotated 1
+// Overview: Zoom 1.11, Map Origin (384.00, -448.00, 280.00), Z Min 609.00, Z Max -49.00, Rotated 1
+// Overview: Zoom 1.07, Map Origin (232.00, -448.00, 280.00), Z Min 609.00, Z Max -49.00, Rotated 1
+// Overview: Zoom 1.39, Map Origin (384.00, 208.00, -96.00), Z Min 705.00, Z Max -897.00, Rotated 0
+
+global 
+{
+	ZOOM	1.39
+	ORIGIN	384	208	-897
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_odium.bmp"
+	HEIGHT	-897
+}
