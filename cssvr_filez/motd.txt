@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Cstrike MOTD</title>
+<style type="text/css">
+       body {
+            background: #000;
+            margin: 8px;
+            color: #FE02F1;
+            font: normal 16px/20px Verdana, Tahoma, sans-serif;
+        }
+
+        a {
+            color: #FFF;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #08F804;
+            text-decoration: none;
+        }
+</style>
+</head>
+<style>
+body {
+  background-image: url(https://i.imgur.com/BtUtFhT.gif);
+}
+</style>
+
+<audio autoplay>
+  <source src="https://synsten.github.io/cstrike_d/sound/sten/burenyuu.wav" type="audio/wav">
+</audio>
+<body>
+You are playing dingaling<br>
+<img src="https://i.imgur.com/vpypv8j.gif" alt="xp" border="0" style="width:256px;height:128px;">
+<br>
+mapcycle;<br>
+de_lorean<br>
+de_fastline2<br>
+cs_xmas_trailerpark<br>
+de_hankagai_cz<br>
+cs_foodmarket_b3<br>
+de_747<br>
+de_bahrainv2<br>
+de_anal_final<br>
+de_desktop<br>
+cs_paris<br>
+cs_foodmarket_b3<br>
+cs_inca<br>
+de_aldi<br>
+cs_rise_v2<br>
+cs_skyscraper<br>
+de_chernobyl<br>
+de_dark_city<br>
+xmas_wallmart<br>
+cs_apartments_cz<br>
+dont be a dick or a freak and have fun!!!<br>
+Visit the official CS web site @<br>
+www.counter-strike.net<br>
+<img src="https://i.imgur.com/5kb9sCR.gif" alt="uzi" border="0" style="width:128px;height:128px;">
+<br>
+<a href="http://www.counter-strike.net">Visit Counter-Strike.net</a>
+</body>
+</html>
