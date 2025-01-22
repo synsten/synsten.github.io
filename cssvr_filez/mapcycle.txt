@@ -20,3 +20,4 @@ cs_apartments_cz
 de_dazzling
 de_odium
 de_beton_night
+de_balkanhouse2
