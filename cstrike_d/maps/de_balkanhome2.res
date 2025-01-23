@@ -23,3 +23,7 @@ models/sten/boombox.mdl
 models/props/dolly.mdl
 sound/sten/mirage.wav
 sound/ambience/fastline/fastline_station4.wav
+models/sten/necoarc.mdl
+sound/sten/burenyuu.wav
+models/props/lamp_hanging-industrial.mdl
+models/sten/rei_plush.mdl
