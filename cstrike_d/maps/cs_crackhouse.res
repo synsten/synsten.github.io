@@ -18,3 +18,4 @@ sound/ambience/twn_radio2.wav
 sound/ambience/twn_radio3.wav
 cs_crackhouse.wad
 cs_crackhouse.txt
+cs_crackhouse.nav
