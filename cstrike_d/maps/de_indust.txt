@@ -1,0 +1,19 @@
+INDUSTRIAL AREA (v.1.0) - Bomb/Defuse
+by BuZZeR (buzzerman@yandex.ru)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates in
+russian industrial area.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the chemical 
+weapon stashes. 
+
+Other Notes: There are 2 chemical 
+weapon stashes in the mission.
+
+Other Notes: MADE IN RUSSIA!
+
+(Press FIRE to continue)
